@@ -1,0 +1,12 @@
+.client {
+    margin: 30px auto;
+    background-color: #F6F6F6;
+}
+
+.client h2 {
+    font-weight: bold;
+}
+
+.client .client-list p {
+    color: #8B7F82;
+}
